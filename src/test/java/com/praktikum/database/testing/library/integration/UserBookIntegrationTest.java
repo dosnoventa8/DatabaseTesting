@@ -1,4 +1,4 @@
 package com.praktikum.database.testing.library.integration;
 
-public class UserBookingIntegrationTest {
+public class UserBookIntegrationTest {
 }
